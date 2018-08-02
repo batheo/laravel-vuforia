@@ -1,5 +1,5 @@
 {
-    "name": "panoscape/laravel-vuforia",
+    "name": "btheo/laravel-vuforia",
     "description": "Vuforia web service api for laravel",
     "keywords": ["laravel", "vuforia", "ar", "augmented-reality", "api"],
     "homepage": "https://github.com/seancheung/laravel-vuforia",
